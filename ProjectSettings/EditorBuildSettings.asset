@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Skill_Sapling/Scenes/MainMenu.unity
+    guid: e57bf5245a1750b4a85a93dab2e0125d
+  - enabled: 1
+    path: Assets/Skill_Sapling/Scenes/Map.unity
+    guid: 6c3e42714c9287744b5e92291d5c657a
+  - enabled: 1
+    path: Assets/Skill_Sapling/Scenes/Winscreen.unity
+    guid: c8b56a577958f6549abf8f5247a02a7f
+  m_configObjects: {}
